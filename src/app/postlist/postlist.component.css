@@ -1,0 +1,9 @@
+.posts__container {
+  text-align: center;
+  width: 400px;
+}
+
+.posts__list {
+  list-style: none;
+  text-align: justify;
+}
